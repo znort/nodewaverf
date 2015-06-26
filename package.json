@@ -1,0 +1,10 @@
+{
+  "name": "Nodewave",
+  "description": "Chatty Lightwavey Nodey Thingy",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "speakable": "*",
+    "lightwaverf": "*"
+  }
+}

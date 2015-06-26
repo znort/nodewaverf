@@ -1,0 +1,8 @@
+{
+	"kitchen": {
+		"roomId": 4,
+		"devices": {
+			"lights": 1
+		}
+	}
+}
